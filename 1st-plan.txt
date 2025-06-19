@@ -1,5 +1,8 @@
 I chose because I realized that there was no choice
 - Repair
+ + Destructor
 - Remove
 - Just Trying
+ + Fail
 - Radical
+
