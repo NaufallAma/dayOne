@@ -1,6 +1,12 @@
 I chose because I realized that there was no choice
 - Repair
-  + Builder
+
+
+ + Destructor
+ + Build
 - Remove
+- Just Trying
+ + Fail
 
 - Radical
+
